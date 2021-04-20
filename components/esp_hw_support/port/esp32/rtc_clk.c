@@ -59,7 +59,7 @@
 #define APLL_CAL_DELAY_2            0x3f
 #define APLL_CAL_DELAY_3            0x1f
 
-#define XTAL_32K_DAC_VAL    1
+#define XTAL_32K_DAC_VAL    3
 #define XTAL_32K_DRES_VAL   3
 #define XTAL_32K_DBIAS_VAL  0
 
